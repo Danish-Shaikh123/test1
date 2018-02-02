@@ -1,7 +1,7 @@
 # Dockerization - Do more with Docker [Integrated Course]
 This is the code repository for [Dockerization - Do more with Docker [Integrated Course]](https://www.packtpub.com/virtualization-and-cloud/dockerization-do-more-docker-integrated-course?utm_source=github&utm_medium=repository&utm_campaign=9781788394857), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-asasa
+asasada
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
@@ -17,10 +17,10 @@ asasa
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-asasas
+asdasasda
 ### Technical Requirements
 This course has the following software requirements:<br/>
-asasas
+asasasa
 
 ## Related Products
 * [Dockerization - Do more with Docker [Integrated Course]](https://www.packtpub.com/virtualization-and-cloud/dockerization-do-more-docker-integrated-course?utm_source=github&utm_medium=repository&utm_campaign=9781788394857)
