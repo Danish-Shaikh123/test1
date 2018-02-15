@@ -29,10 +29,10 @@ asasasa
 
 * [Dockerization - Do more with Docker [Integrated Course]](https://www.packtpub.com/virtualization-and-cloud/dockerization-do-more-docker-integrated-course?utm_source=github&utm_medium=repository&utm_campaign=9781788394857)
 
-<img src="http://hitwebcounter.com/counter/counter.php?page=6899232&style=0024&nbdigits=5&type=page&initCount=0" title="." Alt="."   border="0" ></a>                                    
-![alt text](http://hitwebcounter.com/counter/counter.php?page=6899232&style=0024&nbdigits=5&type=page&initCount=0)
+<img src="https://hitwebcounter.com/counter/counter.php?page=6899232&style=0024&nbdigits=5&type=page&initCount=0" title="." Alt="."   border="0" ></a>                                    
+![alt text](https://hitwebcounter.com/counter/counter.php?page=6899232&style=0024&nbdigits=5&type=page&initCount=0)
 <p align="center">
   <img src="http://hitwebcounter.com/counter/counter.php?page=6899232&style=0024&nbdigits=5&type=page&initCount=0" width="350"/>
   <img src="your_relative_path_here_number_2_large_name" width="350"/>
 </p>
-[stack Overflow](http://lmsotfy.com/so.png)
+[stack Overflow](https://lmsotfy.com/so.png)
