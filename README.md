@@ -35,4 +35,4 @@ asasasa
   <img src="http://hitwebcounter.com/counter/counter.php?page=6899232&style=0024&nbdigits=5&type=page&initCount=0" width="350"/>
   <img src="your_relative_path_here_number_2_large_name" width="350"/>
 </p>
-![stack Overflow]("http://lmsotfy.com/so.png")
+[stack Overflow](http://lmsotfy.com/so.png)
