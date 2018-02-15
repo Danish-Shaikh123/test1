@@ -31,3 +31,7 @@ asasasa
 
 <img src="http://hitwebcounter.com/counter/counter.php?page=6899232&style=0024&nbdigits=5&type=page&initCount=0" title="." Alt="."   border="0" ></a>                                    
 ![alt text](http://hitwebcounter.com/counter/counter.php?page=6899232&style=0024&nbdigits=5&type=page&initCount=0)
+<p align="center">
+  <img src="http://hitwebcounter.com/counter/counter.php?page=6899232&style=0024&nbdigits=5&type=page&initCount=0" width="350"/>
+  <img src="your_relative_path_here_number_2_large_name" width="350"/>
+</p>
