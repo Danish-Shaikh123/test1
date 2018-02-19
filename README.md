@@ -35,4 +35,4 @@ asasasa
   <img src="http://hitwebcounter.com/counter/counter.php?page=6899232&style=0024&nbdigits=5&type=page&initCount=0" width="350"/>
   <img src="your_relative_path_here_number_2_large_name" width="350"/>
 </p>
-[stack Overflow](https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/cover%20-%20Copy_5.png)
+![stack Overflow]("https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/cover%20-%20Copy_5.png")
